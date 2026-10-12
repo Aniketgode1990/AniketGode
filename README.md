@@ -25,7 +25,7 @@ Supply Chain Analyst - Logistics Customs Clearance / Brokerage Coordinator Analy
 - BE - Electronics, Rashtrasant Tukadoji Maharaj Nagpur University
 
 ### 📜 Certifications
-- Microsoft PL-300 — Power BI
+- Microsoft PL300 - Power BI
 - Six Sigma Green Belt
 
 ### 🏆 Achievement
